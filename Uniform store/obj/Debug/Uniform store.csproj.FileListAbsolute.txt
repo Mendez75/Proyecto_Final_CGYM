@@ -1,0 +1,191 @@
+C:\Users\Hamza Mushtaq\Desktop\Windows form\Uniform store\Uniform store\bin\Debug\Uniform store.exe.config
+C:\Users\Hamza Mushtaq\Desktop\Windows form\Uniform store\Uniform store\bin\Debug\Uniform store.exe
+C:\Users\Hamza Mushtaq\Desktop\Windows form\Uniform store\Uniform store\bin\Debug\Uniform store.pdb
+C:\Users\Hamza Mushtaq\Desktop\Windows form\Uniform store\Uniform store\obj\Debug\Uniform store.csprojAssemblyReference.cache
+C:\Users\Hamza Mushtaq\Desktop\Windows form\Uniform store\Uniform store\obj\Debug\Uniform_store.Properties.Resources.resources
+C:\Users\Hamza Mushtaq\Desktop\Windows form\Uniform store\Uniform store\obj\Debug\Uniform store.csproj.GenerateResource.cache
+C:\Users\Hamza Mushtaq\Desktop\Windows form\Uniform store\Uniform store\obj\Debug\Uniform store.csproj.CoreCompileInputs.cache
+C:\Users\Hamza Mushtaq\Desktop\Windows form\Uniform store\Uniform store\obj\Debug\Uniform store.exe
+C:\Users\Hamza Mushtaq\Desktop\Windows form\Uniform store\Uniform store\obj\Debug\Uniform store.pdb
+C:\Users\Hamza Mushtaq\Desktop\Windows form\Uniform store\Uniform store\obj\Debug\Uniform_store.Login.resources
+C:\Users\Hamza Mushtaq\Desktop\Windows form\Uniform store\Uniform store\obj\Debug\Uniform_store.form1.resources
+C:\Users\Hamza Mushtaq\Desktop\Windows form\Uniform store\Uniform store\obj\Debug\Uniform_store.Additem.resources
+C:\Users\Hamza Mushtaq\Desktop\Windows form\Uniform store\Uniform store\obj\Debug\Uniform_store.EditItemForm.resources
+C:\Users\Hamza Mushtaq\Desktop\Windows form\Uniform store\Uniform store\obj\Debug\Uniform_store.ViewData.resources
+C:\Users\Hamza Mushtaq\Desktop\Windows form\Uniform store\Uniform store\bin\Debug\zxing.dll
+C:\Users\Hamza Mushtaq\Desktop\Windows form\Uniform store\Uniform store\bin\Debug\zxing.presentation.dll
+C:\Users\Hamza Mushtaq\Desktop\Windows form\Uniform store\Uniform store\bin\Debug\zxing.xml
+C:\Users\Hamza Mushtaq\Desktop\Windows form\Uniform store\Uniform store\bin\Debug\zxing.presentation.xml
+C:\Users\Hamza Mushtaq\Desktop\Windows form\Uniform store\Uniform store\obj\Debug\Uniform store.csproj.CopyComplete
+C:\Users\Hamza Mushtaq\Desktop\Uniform store\Uniform store\Uniform store\bin\Debug\Uniform store.exe.config
+C:\Users\Hamza Mushtaq\Desktop\Uniform store\Uniform store\Uniform store\bin\Debug\Uniform store.exe
+C:\Users\Hamza Mushtaq\Desktop\Uniform store\Uniform store\Uniform store\bin\Debug\Uniform store.pdb
+C:\Users\Hamza Mushtaq\Desktop\Uniform store\Uniform store\Uniform store\bin\Debug\zxing.dll
+C:\Users\Hamza Mushtaq\Desktop\Uniform store\Uniform store\Uniform store\bin\Debug\zxing.presentation.dll
+C:\Users\Hamza Mushtaq\Desktop\Uniform store\Uniform store\Uniform store\bin\Debug\zxing.xml
+C:\Users\Hamza Mushtaq\Desktop\Uniform store\Uniform store\Uniform store\bin\Debug\zxing.presentation.xml
+C:\Users\Hamza Mushtaq\Desktop\Uniform store\Uniform store\Uniform store\obj\Debug\Uniform store.csprojAssemblyReference.cache
+C:\Users\Hamza Mushtaq\Desktop\Uniform store\Uniform store\Uniform store\obj\Debug\Uniform_store.Additem.resources
+C:\Users\Hamza Mushtaq\Desktop\Uniform store\Uniform store\Uniform store\obj\Debug\Uniform_store.EditItemForm.resources
+C:\Users\Hamza Mushtaq\Desktop\Uniform store\Uniform store\Uniform store\obj\Debug\Uniform_store.form1.resources
+C:\Users\Hamza Mushtaq\Desktop\Uniform store\Uniform store\Uniform store\obj\Debug\Uniform_store.Login.resources
+C:\Users\Hamza Mushtaq\Desktop\Uniform store\Uniform store\Uniform store\obj\Debug\Uniform_store.Properties.Resources.resources
+C:\Users\Hamza Mushtaq\Desktop\Uniform store\Uniform store\Uniform store\obj\Debug\Uniform_store.RegistrationForm.resources
+C:\Users\Hamza Mushtaq\Desktop\Uniform store\Uniform store\Uniform store\obj\Debug\Uniform_store.ViewData.resources
+C:\Users\Hamza Mushtaq\Desktop\Uniform store\Uniform store\Uniform store\obj\Debug\Uniform store.csproj.GenerateResource.cache
+C:\Users\Hamza Mushtaq\Desktop\Uniform store\Uniform store\Uniform store\obj\Debug\Uniform store.csproj.CoreCompileInputs.cache
+C:\Users\Hamza Mushtaq\Desktop\Uniform store\Uniform store\Uniform store\obj\Debug\Uniform store.csproj.CopyComplete
+C:\Users\Hamza Mushtaq\Desktop\Uniform store\Uniform store\Uniform store\obj\Debug\Uniform store.exe
+C:\Users\Hamza Mushtaq\Desktop\Uniform store\Uniform store\Uniform store\obj\Debug\Uniform store.pdb
+C:\Users\Hamza Mushtaq\Desktop\Uniform store\Uniform store\Uniform store\obj\Debug\Uniform_store.Forget_password.resources
+C:\Users\Hamza Mushtaq\Desktop\Uniform store\Uniform store\Uniform store\obj\Debug\Uniform_store.Reset_Password_form.resources
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\Uniform store\Uniform store\Uniform store\bin\Debug\Uniform store.exe.config
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\Uniform store\Uniform store\Uniform store\bin\Debug\Uniform store.exe
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\Uniform store\Uniform store\Uniform store\bin\Debug\Uniform store.pdb
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\Uniform store\Uniform store\Uniform store\bin\Debug\zxing.dll
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\Uniform store\Uniform store\Uniform store\bin\Debug\zxing.presentation.dll
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\Uniform store\Uniform store\Uniform store\bin\Debug\zxing.xml
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\Uniform store\Uniform store\Uniform store\bin\Debug\zxing.presentation.xml
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\Uniform store\Uniform store\Uniform store\obj\Debug\Uniform store.csprojAssemblyReference.cache
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\Uniform store\Uniform store\Uniform store\obj\Debug\Uniform_store.Forget_password.resources
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\Uniform store\Uniform store\Uniform store\obj\Debug\Uniform_store.form1.resources
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\Uniform store\Uniform store\Uniform store\obj\Debug\Uniform_store.Login.resources
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\Uniform store\Uniform store\Uniform store\obj\Debug\Uniform_store.Properties.Resources.resources
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\Uniform store\Uniform store\Uniform store\obj\Debug\Uniform_store.Reset_Password_form.resources
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\Uniform store\Uniform store\Uniform store\obj\Debug\Uniform_store.ViewData.resources
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\Uniform store\Uniform store\Uniform store\obj\Debug\Uniform store.csproj.GenerateResource.cache
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\Uniform store\Uniform store\Uniform store\obj\Debug\Uniform store.csproj.CoreCompileInputs.cache
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\Uniform store\Uniform store\Uniform store\obj\Debug\Uniform store.csproj.CopyComplete
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\Uniform store\Uniform store\Uniform store\obj\Debug\Uniform store.exe
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\Uniform store\Uniform store\Uniform store\obj\Debug\Uniform store.pdb
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\Uniform store\Uniform store\Uniform store\obj\Debug\Uniform_store.adminForm.resources
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\Uniform store\Uniform store\Uniform store\obj\Debug\Uniform_store.catagoryForm.resources
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\Uniform store\Uniform store\Uniform store\obj\Debug\Uniform_store.SellerForm.resources
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\Uniform store\Uniform store\Uniform store\obj\Debug\Uniform_store.RegistrationForm.resources
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\Uniform store\Uniform store\Uniform store\obj\Debug\Uniform_store.Report.resources
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\Uniform store\Uniform store\Uniform store\obj\Debug\Uniform_store.SalesReport.resources
+D:\usb\DATA BASE projects\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\bin\Debug\Uniform store.exe.config
+D:\usb\DATA BASE projects\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\bin\Debug\Uniform store.exe
+D:\usb\DATA BASE projects\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\bin\Debug\Uniform store.pdb
+D:\usb\DATA BASE projects\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\bin\Debug\zxing.dll
+D:\usb\DATA BASE projects\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\bin\Debug\zxing.presentation.dll
+D:\usb\DATA BASE projects\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\bin\Debug\zxing.xml
+D:\usb\DATA BASE projects\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\bin\Debug\zxing.presentation.xml
+D:\usb\DATA BASE projects\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform store.csprojAssemblyReference.cache
+D:\usb\DATA BASE projects\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform_store.adminForm.resources
+D:\usb\DATA BASE projects\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform_store.catagoryForm.resources
+D:\usb\DATA BASE projects\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform_store.Forget_password.resources
+D:\usb\DATA BASE projects\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform_store.form1.resources
+D:\usb\DATA BASE projects\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform_store.Login.resources
+D:\usb\DATA BASE projects\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform_store.Properties.Resources.resources
+D:\usb\DATA BASE projects\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform_store.RegistrationForm.resources
+D:\usb\DATA BASE projects\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform_store.Report.resources
+D:\usb\DATA BASE projects\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform_store.Reset_Password_form.resources
+D:\usb\DATA BASE projects\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform_store.SalesReport.resources
+D:\usb\DATA BASE projects\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform_store.SellerForm.resources
+D:\usb\DATA BASE projects\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform_store.ViewData.resources
+D:\usb\DATA BASE projects\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform store.csproj.GenerateResource.cache
+D:\usb\DATA BASE projects\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform store.csproj.CoreCompileInputs.cache
+D:\usb\DATA BASE projects\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform store.csproj.CopyComplete
+D:\usb\DATA BASE projects\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform store.exe
+D:\usb\DATA BASE projects\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform store.pdb
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\DATA BASE projects\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\bin\Debug\Uniform store.exe.config
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\DATA BASE projects\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\bin\Debug\Uniform store.exe
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\DATA BASE projects\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\bin\Debug\Uniform store.pdb
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\DATA BASE projects\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\bin\Debug\zxing.dll
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\DATA BASE projects\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\bin\Debug\zxing.presentation.dll
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\DATA BASE projects\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\bin\Debug\zxing.xml
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\DATA BASE projects\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\bin\Debug\zxing.presentation.xml
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\DATA BASE projects\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform store.csprojAssemblyReference.cache
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\DATA BASE projects\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform_store.adminForm.resources
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\DATA BASE projects\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform_store.catagoryForm.resources
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\DATA BASE projects\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform_store.Forget_password.resources
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\DATA BASE projects\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform_store.form1.resources
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\DATA BASE projects\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform_store.Login.resources
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\DATA BASE projects\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform_store.Properties.Resources.resources
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\DATA BASE projects\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform_store.RegistrationForm.resources
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\DATA BASE projects\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform_store.Report.resources
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\DATA BASE projects\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform_store.Reset_Password_form.resources
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\DATA BASE projects\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform_store.SalesReport.resources
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\DATA BASE projects\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform_store.SellerForm.resources
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\DATA BASE projects\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform_store.ViewData.resources
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\DATA BASE projects\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform store.csproj.GenerateResource.cache
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\DATA BASE projects\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform store.csproj.CoreCompileInputs.cache
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\DATA BASE projects\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform store.csproj.CopyComplete
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\DATA BASE projects\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform store.exe
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\DATA BASE projects\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform store.pdb
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\bin\Debug\Uniform store.exe.config
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\bin\Debug\Uniform store.exe
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\bin\Debug\Uniform store.pdb
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\bin\Debug\zxing.dll
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\bin\Debug\zxing.presentation.dll
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\bin\Debug\zxing.xml
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\bin\Debug\zxing.presentation.xml
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform store.csprojAssemblyReference.cache
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform_store.adminForm.resources
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform_store.catagoryForm.resources
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform_store.Forget_password.resources
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform_store.form1.resources
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform_store.Login.resources
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform_store.Properties.Resources.resources
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform_store.RegistrationForm.resources
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform_store.Report.resources
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform_store.Reset_Password_form.resources
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform_store.SalesReport.resources
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform_store.SellerForm.resources
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform_store.ViewData.resources
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform store.csproj.GenerateResource.cache
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform store.csproj.CoreCompileInputs.cache
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform store.csproj.CopyComplete
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform store.exe
+C:\Users\Hamza Mushtaq\OneDrive\Desktop\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform store.pdb
+C:\Users\furqan\Downloads\DB Project uniform Store in Oracle (1)\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\bin\Debug\Uniform store.exe.config
+C:\Users\furqan\Downloads\DB Project uniform Store in Oracle (1)\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\bin\Debug\Uniform store.exe
+C:\Users\furqan\Downloads\DB Project uniform Store in Oracle (1)\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\bin\Debug\Uniform store.pdb
+C:\Users\furqan\Downloads\DB Project uniform Store in Oracle (1)\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\bin\Debug\zxing.dll
+C:\Users\furqan\Downloads\DB Project uniform Store in Oracle (1)\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\bin\Debug\zxing.presentation.dll
+C:\Users\furqan\Downloads\DB Project uniform Store in Oracle (1)\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\bin\Debug\zxing.xml
+C:\Users\furqan\Downloads\DB Project uniform Store in Oracle (1)\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\bin\Debug\zxing.presentation.xml
+C:\Users\furqan\Downloads\DB Project uniform Store in Oracle (1)\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform store.csprojAssemblyReference.cache
+C:\Users\furqan\Downloads\DB Project uniform Store in Oracle (1)\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform_store.adminForm.resources
+C:\Users\furqan\Downloads\DB Project uniform Store in Oracle (1)\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform_store.catagoryForm.resources
+C:\Users\furqan\Downloads\DB Project uniform Store in Oracle (1)\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform_store.Forget_password.resources
+C:\Users\furqan\Downloads\DB Project uniform Store in Oracle (1)\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform_store.form1.resources
+C:\Users\furqan\Downloads\DB Project uniform Store in Oracle (1)\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform_store.Login.resources
+C:\Users\furqan\Downloads\DB Project uniform Store in Oracle (1)\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform_store.Properties.Resources.resources
+C:\Users\furqan\Downloads\DB Project uniform Store in Oracle (1)\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform_store.RegistrationForm.resources
+C:\Users\furqan\Downloads\DB Project uniform Store in Oracle (1)\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform_store.Report.resources
+C:\Users\furqan\Downloads\DB Project uniform Store in Oracle (1)\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform_store.Reset_Password_form.resources
+C:\Users\furqan\Downloads\DB Project uniform Store in Oracle (1)\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform_store.SalesReport.resources
+C:\Users\furqan\Downloads\DB Project uniform Store in Oracle (1)\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform_store.SellerForm.resources
+C:\Users\furqan\Downloads\DB Project uniform Store in Oracle (1)\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform_store.ViewData.resources
+C:\Users\furqan\Downloads\DB Project uniform Store in Oracle (1)\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform store.csproj.GenerateResource.cache
+C:\Users\furqan\Downloads\DB Project uniform Store in Oracle (1)\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform store.csproj.CoreCompileInputs.cache
+C:\Users\furqan\Downloads\DB Project uniform Store in Oracle (1)\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform store.csproj.CopyComplete
+C:\Users\furqan\Downloads\DB Project uniform Store in Oracle (1)\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform store.exe
+C:\Users\furqan\Downloads\DB Project uniform Store in Oracle (1)\DB Project uniform Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform store.pdb
+C:\Users\Grievous\Pictures\Screenshots\DB Project Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\bin\Debug\Uniform store.exe.config
+C:\Users\Grievous\Pictures\Screenshots\DB Project Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\bin\Debug\Uniform store.exe
+C:\Users\Grievous\Pictures\Screenshots\DB Project Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\bin\Debug\Uniform store.pdb
+C:\Users\Grievous\Pictures\Screenshots\DB Project Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\bin\Debug\zxing.dll
+C:\Users\Grievous\Pictures\Screenshots\DB Project Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\bin\Debug\zxing.presentation.dll
+C:\Users\Grievous\Pictures\Screenshots\DB Project Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\bin\Debug\zxing.xml
+C:\Users\Grievous\Pictures\Screenshots\DB Project Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\bin\Debug\zxing.presentation.xml
+C:\Users\Grievous\Pictures\Screenshots\DB Project Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform store.csprojAssemblyReference.cache
+C:\Users\Grievous\Pictures\Screenshots\DB Project Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform_store.adminForm.resources
+C:\Users\Grievous\Pictures\Screenshots\DB Project Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform_store.Forget_password.resources
+C:\Users\Grievous\Pictures\Screenshots\DB Project Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform_store.form1.resources
+C:\Users\Grievous\Pictures\Screenshots\DB Project Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform_store.Login.resources
+C:\Users\Grievous\Pictures\Screenshots\DB Project Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform_store.Properties.Resources.resources
+C:\Users\Grievous\Pictures\Screenshots\DB Project Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform_store.Reset_Password_form.resources
+C:\Users\Grievous\Pictures\Screenshots\DB Project Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform store.csproj.GenerateResource.cache
+C:\Users\Grievous\Pictures\Screenshots\DB Project Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform store.csproj.CoreCompileInputs.cache
+C:\Users\Grievous\Pictures\Screenshots\DB Project Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform store.csproj.CopyComplete
+C:\Users\Grievous\Pictures\Screenshots\DB Project Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform store.exe
+C:\Users\Grievous\Pictures\Screenshots\DB Project Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform store.pdb
+C:\Users\Grievous\Pictures\Screenshots\DB Project Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform_store.FormRegistro.resources
+C:\Users\Grievous\Pictures\Screenshots\DB Project Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform_store.FormCategoria.resources
+C:\Users\Grievous\Pictures\Screenshots\DB Project Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform_store.Reporte.resources
+C:\Users\Grievous\Pictures\Screenshots\DB Project Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform_store.InformeVentas.resources
+C:\Users\Grievous\Pictures\Screenshots\DB Project Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform_store.FormVendedor.resources
+C:\Users\Grievous\Pictures\Screenshots\DB Project Store in Oracle\DB Project uniform Store in Oracle\Uniform store\Uniform store\obj\Debug\Uniform_store.FormVerDatos.resources
